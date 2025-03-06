@@ -1,6 +1,6 @@
 # pr-commenter
 
-Create and manage automatic comments in a Github PR
+Create and manage automatic comments in a Github PR.
 
 [![tests](https://github.com/Shiphero/pr-commenter/actions/workflows/pytest.yml/badge.svg?branch=main)](https://github.com/Shiphero/pr-commenter/actions/workflows/pytest.yml)
 [![black](https://github.com/Shiphero/pr-commenter/actions/workflows/black.yml/badge.svg?branch=main)](https://github.com/Shiphero/pr-commenter/actions/workflows/black.yml)
